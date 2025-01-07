@@ -64,7 +64,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Překážkou členství a důvodem k jeho ukončení je členství v jiné politické straně nebo hnutí, uvedení nepravdivých informací zejména na přihlášce, nesplnění některých předpokladů pro výkon funkcí ve státních orgánech (zákon č. 451/1991 Sb., lustrační zákon), kandidatura na veřejnou funkci bez souhlasu příslušného orgánu strany ke dni voleb.
 
-3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Pokud krajské předsednictvo odmítne žadatele o členství přijmout, může se žadatel odvolat k Republikovému předsednictvu. Rozhodnutí, kterým Republikové předsednictvo vyhoví odvolání, nahrazuje schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
+3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. V případě ověření totožnosti se za podepsanou přihlášku považuje také vyplněný elektronický registrační formulář. Pokud krajské předsednictvo odmítne žadatele o členství přijmout, může se žadatel odvolat k Republikovému předsednictvu. Rozhodnutí, kterým Republikové předsednictvo vyhoví odvolání, nahrazuje schválení krajským předsednictvem. Znovupřijetí bývalého člena, s výjimkou vyloučeného člena, podléhá souhlasu Republikového předsednictva. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
 
 4) Člen krajského sdružení může požádat o členství v jiném krajském sdružení prostřednictvím předsedy kraje, kterého chce být členem. Předseda tohoto kraje dá hlasovat o žádosti na nejbližším zasedání krajského předsednictva. Pokud krajské předsednictvo žadatele přijme, stane se členem tohoto kraje. Republiková kancelář na základě zápisu z jednání krajského předsednictva zařadí žadatele do krajského sdružení, o jehož členství žádal. Veškerá práva a povinnosti v původním kraji ztrácí, včetně případného mandátu v orgánech kraje, zároveň získává veškerá práva a povinnosti v novém krajském sdružení. Tato změna je možná pouze jednou za kalendářní rok.
 
@@ -92,7 +92,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
     b) svobodně vyjadřovat své názory a obhajovat je, podílet se na projednávání a rozhodování o vnitřních záležitostech strany,
 
-    c) podílet se na utváření politiky strany,
+    c) podílet se na utváření politiky strany a být volen do orgánů strany uvedených v čl. 5 odst. 1),
 
     d) obracet se na jiné členy a orgány strany se svými návrhy, iniciativami, otázkami a připomínkami,
 
@@ -131,6 +131,50 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 ## Článek 5 Organizační jednotky a orgány
 
 1) Orgány strany jsou republikový sněm, Republikový výbor, Republikové předsednictvo, Rozhodčí komise, Kontrolní komise, Volební komise, v krajských sdruženích krajský sněm a krajské předsednictvo.
+
+2) Vnitrostranickými funkcemi jsou zpravidla funkce do ve Stanovách uvedených krajských a republikových orgánů, či organizačních jednotek, které jsou definovány vnitřními předpisy strany.
+   
+3) Vznik funkce
+   
+    a)	jmenováním
+   
+    b)	volbou, přičemž v případě funkce do krajských orgánů má právo volit krajský sněm a v případě funkce do republikových orgánů má právo volit republikový sněm
+   
+4)	Délka mandátu je zpravidla dva roky, není-li stanoveno jinak, a počíná dnem vyhlášení výsledků voleb, resp. dnem, kdy končí mandát osobě v této funkci, pokud se o funkci neucházela a neuspěla tatáž osoba, která v den vyhlášení výsledků voleb stejnou funkci zastávala.
+   
+5)	Pravomoci členů zastávajících funkce se řídí interními předpisy strany, pokud nejsou součástí Stanov.
+   
+6)	Pozastavení funkce nastává pouze tehdy, že je členovi na jeho vlastní žádost pozastaveno členství. Délka mandátu se o dobu pozastavení nezvyšuje. Po dobu pozastavení funkce nemá dotčený člen pravomoci vyplývající z funkce.
+    
+7)	Zánik funkce získané jmenováním nastává odvoláním z funkce stejným orgánem, kterým byla funkce přiřazena.
+    
+8)	Zánik funkce získané volbou nastává
+   
+    a)	uplynutím mandátu, 
+
+    b)	v případě úmrtí člena, 
+
+    c)	ukončením členství, 
+
+    d)	neúspěchem ve volbách v případě, že člen, který funkci zastává, kandiduje na tutéž funkci před vypršením svého mandátu a není zvolen. V den vyhlášení výsledků voleb mu tento mandát zaniká. 
+
+    e)	zvolením do funkce neslučitelné s funkcí, kterou člen aktuálně zastává. Funkce mu zaniká dnem vzniku funkce nové. 
+
+    f)	odebráním funkce. Podmínky pro odebrání funkce je popsán v Čl. 5, odst. 9
+
+10)	Odebrání funkce vzniklé volbou
+    
+    a)	návrh na odebrání funkce může podat kterýkoli člen strany; jeho projednání je podmíněno podporou nejméně pěti dalších členů ReV.
+   	
+    b)	návrh na odebrání funkce navrhovatel předkládá ReV a ReP. ReV a ReP jsou povinné o tomto návrhu   rozhodnout na nejbližším jednání. Na jednání obou republikových orgánů mají právo být přítomni navrhovatel i člen navržený na odebrání funkce. Oba mají právo na vyjádření se. Důkazní břemeno nese navrhovatel. 
+   	
+    c)	alespoň jeden z orgánů ReV či ReP musí návrh podpořit, aby mohlo být přistoupeno k následnému kroku (Čl. 5, odst. 9, písm. d). Pokud ani jeden z orgánů návrh nepodpoří, je takový návrh automaticky bez možnosti odvolání zamítnut. O jednáních musí být vyhotoven zápis. V případě, že člen navrhovaný na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. V případě, že člen navrhující na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. 
+   	
+    d)	pokud ReV či ReP podpoří návrh na odebrání funkce, je Volební komise povinna na pokyn ReP do tří dnů vypsat volby, ve kterých o odebrání s konečnou platností a bez možnosti odvolání rozhodne sněm ve stejné úrovni, ve které funkce vznikla, tj. pro odebrání funkce v krajském orgánu rozhodne krajský sněm a pro odebrání funkce v republikovém orgánu rozhodne republikový sněm. V obou případech probíhá volba formou „pro návrh/proti návrhu“, přičemž součástí textu doprovázejícího vyhlášení textu musejí být důkazy, předložené při návrhu na odebrání funkce, popř. odkaz, na kterém jsou tyto důkazy dostupné 
+   	
+    e)	hrozí-li nebezpečí z prodlení či zneužití funkce, může být v případě takového člena, je-li návrh podpořen jedním z orgánů dle Čl. 5, odst. 9, písm. c), rozhodnuto i o dočasném pozastavení výkonu práv a povinností z funkce vyplývajících. Takové rozhodnutí má právo učinit ReP a musí tak učinit jednomyslně. V případě, že republikový sněm, resp. krajský sněm rozhodnutí o odebrání funkce zamítne, bude členu, který byl takto krácen na výkonu svých práv vyplývajících z funkce, prodlouženo funkční období o dobu, po kterou mu byl výkon práv pozastaven. 
+   	
+    f)	rozhodnutí o odebrání funkce nabývá účinnosti dnem vyhlášení výsledku volby. 
 
 ## Článek 6 Obecné zásady
 
@@ -279,6 +323,8 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 ## Článek 10 Republikové předsednictvo
 
 1) Republikové předsednictvo sestává z předsedy a čtyř místopředsedů.
+
+    a) Místopředsedové Republikového předsednictva mohou rezignovat na svůj mandát v Republikovém předsednictvu a přitom si ponechat návazný mandát v Republikovém výboru. Volby na takto uvolněnou pozici místopředsedy Republikového předsednictva se vypisují až po vypršení takového mandátu v Republikovém výboru.
 
 2) Republikové předsednictvo:
 
