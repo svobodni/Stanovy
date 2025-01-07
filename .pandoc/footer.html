@@ -1,0 +1,11 @@
+<script type="text/javascript">
+
+  $("h2").each(function( index ) {
+    var content = $(this).text();
+
+    content = content.replace(/(Článek \d+) (.*)/g, function(v, number, title){
+      return(number+'<br/>'+title);
+    });
+    $(this).html(content);
+  })
+</script>

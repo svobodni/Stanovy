@@ -1,0 +1,36 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<style>
+  body {
+    font-family: 'Montserrat','Roboto', sans-serif;
+    font-size: 13px;
+    max-width: 60em;
+  }
+
+  h1, h2, h3 { font-weight: bold; color: #009681; text-align: center;}  
+  h1 { font-size: 32px; }
+  h2 { font-size: 22px; }
+  h3 { font-size: 16px; text-align: left;}
+  
+  ol {
+    counter-reset: list;
+    list-style-type: none;
+  }
+
+  ol > li {
+    margin: 0 0 0.5rem 0;
+    position: relative;
+  }
+
+  ol > li:before {
+    position: absolute;
+    content: counter(list) ") ";
+    counter-increment: list;
+    left: -1.25em;
+  }
+
+  h3+ol > li:before,
+  h2~ol>li>ol > li:before{
+    content: counter(list, lower-alpha) ") ";
+  }
+
+</style>
