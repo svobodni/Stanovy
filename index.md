@@ -6,7 +6,7 @@
 
 3) Sídlem politické strany je Praha.
 
-## Článek 2 Poslání a základní programové cíle
+## Článek 2 Poslání a základní programové cíle
 
 Svobodní vycházejí z iniciativy občanů České republiky, kteří si přejí žít ve svobodné a suverénní zemi, spravované státem, který chová úctu ke svým občanům, k jejich životu, majetku, svobodě a osobní odpovědnosti. Své cíle strana prosazuje férovým způsobem na základě svobodné diskuse demokratickými metodami při respektování platných právních předpisů.
 
@@ -322,7 +322,7 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 5) Kontrolní komise schvaluje svůj jednací řád.
 
-## Článek 14 Rozhodčí komise
+## Článek 14 Rozhodčí komise
 
 1) Rozhodčí komise odpovídá za závazný výklad stanov a rozhoduje ve sporech mezi členy navzájem.
 
@@ -350,7 +350,7 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 3) Členové komise volí ze svého středu předsedu a místopředsedu Volební komise.
 
-## Článek 16 Jednání a zastupování při právních úkonech
+## Článek 16 Jednání a zastupování při právních úkonech
 
 1) Právní úkony jménem strany činí předseda, v jeho nepřítomnosti místopředseda pověřený předsednictvem. Při podepisování jménem strany k vytištěnému nebo předepsanému názvu strany a jménu jednajícího připojí jednající osoba vlastnoruční podpis s uvedením své funkce ve straně.
 
