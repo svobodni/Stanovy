@@ -10,6 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: mkdir output
+      - name: Set date
+        run: |
+          echo "schvaleno=`.pandoc/getdate.rb`" >> $GITHUB_ENV
       - name: Generate HTML
         uses: docker://pandoc/core:latest
         with:
@@ -17,6 +20,8 @@ jobs:
             --standalone
             --from markdown+ascii_identifiers 
             --metadata title="Stanovy Svobodných"
+            -V date="Schváleno ReV dne ${{ env.schvaleno }}"
+            --shift-heading-level-by=0
             -V margin-top=15
             -V margin-left=15
             -V margin-right=15
@@ -34,7 +39,7 @@ jobs:
           wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb
           sudo apt install -f ./wkhtmltox_0.12.6-1.bionic_amd64.deb
       - name: Generate PDF
-        run: xvfb-run wkhtmltopdf --page-size a4 --title "Stanovy Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" "1.1.2020" output/stanovy.html output/stanovy.pdf
+        run: xvfb-run wkhtmltopdf --page-size a4 --title "Stanovy Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" "${{ env.schvaleno }}" output/stanovy.html output/stanovy.pdf
       - uses: actions/upload-artifact@master
         with:
           name: output
