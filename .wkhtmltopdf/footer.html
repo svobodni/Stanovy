@@ -11,7 +11,7 @@
                       vars[temp_var[0]] = decodeURI(temp_var[1]);
                   }
               }
-              var css_selector_classes = ['page', 'frompage', 'topage', 'webpage', 'section', 'subsection', 'date', 'isodate', 'time', 'title', 'doctitle', 'sitepage', 'sitepages', 'schvaleno'];
+              var css_selector_classes = ['page', 'frompage', 'topage', 'webpage', 'section', 'subsection', 'date', 'isodate', 'time', 'title', 'doctitle', 'sitepage', 'sitepages','schvaleno'];
               for (var css_class in css_selector_classes) {
                   if (css_selector_classes.hasOwnProperty(css_class)) {
                       var element = document.getElementsByClassName(css_selector_classes[css_class]);
@@ -29,21 +29,17 @@
         </style>
     </head>
     <body onload="subst()">
-        <!-- <div style="border: 5px dashed crimson; color: black; background-color: #009681">
-            This is a footer
-        </div> -->
         <table style="width: 100%; padding-left: 100px; padding-right: 100px; height: 40px;">
             <tr>
-                <!-- <td class="section"></td> -->
-                <td style="text-align:left; padding-left: 10px; border-left: 1px solid #009681">
-                    <div style="font-size: 8px; color: #009681">Název dokumentu</div>
+                <td style="text-align:left; padding-left: 10px; border-left: 1px solid #008C72">
+                    <div style="font-size: 8px; color: #008C72">Název dokumentu</div>
                     <div style="font-size: 11px;"><span class="title"></span></div>
                 </span>
-                <td style="text-align:left; padding-left: 10px; border-left: 1px solid #009681">
-                    <!--<div style="font-size: 8px; color: #009681">Schváleno sněmem dne</div>
-                    <div style="font-size: 11px;"><span class="schvaleno"></span></div> -->
+                <td style="text-align:left; padding-left: 10px; border-left: 1px solid #008C72">
+                    <div style="font-size: 8px; color: #008C72">Schváleno ReV dne</div>
+                    <div style="font-size: 11px;"><span class="schvaleno"></span></div>
                 </span>
-                <td style="text-align:right; margin-right: 20px; color: #009681; font-weight: bold;">
+                <td style="text-align:right; margin-right: 20px; color: #008C72; font-weight: bold;">
                     <span class="page"></span>/<span class="topage">
                 </span>
                 </td>
