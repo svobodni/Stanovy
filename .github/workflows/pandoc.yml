@@ -29,6 +29,7 @@ jobs:
             -V papersize=a4
             --output=output/stanovy.html
             -t html5
+            -V default-header
             -A .pandoc/footer.html
             -H .pandoc/header.html
             stanovy.md

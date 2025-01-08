@@ -4,6 +4,7 @@
         <script>
           function subst() {
               var vars = {};
+              alert(document.location.search);
               var query_strings_from_url = document.location.search.substring(1).split('&');
               for (var query_string in query_strings_from_url) {
                   if (query_strings_from_url.hasOwnProperty(query_string)) {
