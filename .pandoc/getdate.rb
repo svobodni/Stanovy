@@ -2,4 +2,4 @@
 
 require 'yaml'
 
-puts YAML.load(File.read("README.md"))['schvaleno'].strftime("%-d.%-m.%Y")
+puts YAML.load(File.read("stanovy.md"))['schvaleno'].strftime("%-d.%-m.%Y")

@@ -1,3 +1,7 @@
+---
+schvaleno: 2025-01-01
+---
+
 ## Článek 1 Úvodní ustanovení
 
 1) Politická strana nese název Svobodní
