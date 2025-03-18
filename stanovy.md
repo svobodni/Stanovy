@@ -76,51 +76,51 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 6) Členství zaniká:
  
-a) nezaplacením členského příspěvku ve stanovené lhůtě, 
+    a) nezaplacením členského příspěvku ve stanovené lhůtě, 
 
-b) písemným prohlášením s uvedením dne ukončení členství, členství nelze ukončit se zpětnou platností, 
+    b) písemným prohlášením s uvedením dne ukončení členství, členství nelze ukončit se zpětnou platností, 
 
-c) vyloučením v případě závažného porušení stanov či opakovaného nebo závažného poškození dobrého jména strany, za závažné porušení stanov se může považovat jednání, které odporuje pravidlům férové svobodné soutěže; za závažné porušení stanov se považuje rovněž činnost či projevy, které jsou v rozporu s čl. 2 bod 1) stanov, 
+    c) vyloučením v případě závažného porušení stanov či opakovaného nebo závažného poškození dobrého jména strany, za závažné porušení stanov se může považovat jednání, které odporuje pravidlům férové svobodné soutěže; za závažné porušení stanov se považuje rovněž činnost či projevy, které jsou v rozporu s čl. 2 bod 1) stanov, 
 
-d) vznikem překážky členství podle odst. 2), 
+    d) vznikem překážky členství podle odst. 2), 
 
-e) zbavením či omezením způsobilosti k právním úkonům, 
+    e) zbavením či omezením způsobilosti k právním úkonům, 
 
-f) úmrtím.
+    f) úmrtím.
 
 7) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, Republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí. 
 
 8) Člen má právo: 
 
-a) být informován o činnosti strany, o všech jednáních krajského sdružení, k němuž přísluší a o přijatých usneseních, 
+    a) být informován o činnosti strany, o všech jednáních krajského sdružení, k němuž přísluší a o přijatých usneseních, 
 
-b) svobodně vyjadřovat své názory a obhajovat je, podílet se na projednávání a rozhodování o vnitřních záležitostech strany, 
+    b) svobodně vyjadřovat své názory a obhajovat je, podílet se na projednávání a rozhodování o vnitřních záležitostech strany, 
 
-c) podílet se na utváření politiky strany a být volen do orgánů strany uvedených v čl. 5 odst. 1), a být volen do orgánů strany uvedených v čl. 5 odst. 1),
+    c) podílet se na utváření politiky strany a být volen do orgánů strany uvedených v čl. 5 odst. 1), a být volen do orgánů strany uvedených v čl. 5 odst. 1),
 
-d) obracet se na jiné členy a orgány strany se svými návrhy, iniciativami, otázkami a připomínkami, 
+    d) obracet se na jiné členy a orgány strany se svými návrhy, iniciativami, otázkami a připomínkami, 
 
-e) účastnit se s hlasovacím právem příslušných sněmů a voleb, 
+    e) účastnit se s hlasovacím právem příslušných sněmů a voleb, 
 
-f) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Svobodných, 
+    f) být navržen za kandidáta pro volby do veřejných funkcí, kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Svobodných, 
 
-g) obracet se na Rozhodčí komisi v případě sporu a podávat návrh na vyloučení Rozhodčí komisi. 
+    g) obracet se na Rozhodčí komisi v případě sporu a podávat návrh na vyloučení Rozhodčí komisi. 
 
 9) Člen je povinen: 
 
-a) podporovat politické cíle strany, zejména základní programové cíle uvedené v článku 2, 
+    a) podporovat politické cíle strany, zejména základní programové cíle uvedené v článku 2, 
 
-b) dodržovat ustanovení jednacích řádů a dalších vnitřních předpisů, 
+    b) dodržovat ustanovení jednacích řádů a dalších vnitřních předpisů, 
 
-c) dodržovat pravidla spravedlivé svobodné soutěže, 
+    c) dodržovat pravidla spravedlivé svobodné soutěže, 
 
-d) oznámit bez zbytečného prodlení změny údajů uvedených na přihlášce, 
+    d) oznámit bez zbytečného prodlení změny údajů uvedených na přihlášce, 
 
-e) předložit na vyžádání lustrační osvědčení nebo souhlas s provedením lustrace, 
+    e) předložit na vyžádání lustrační osvědčení nebo souhlas s provedením lustrace, 
 
-f) předložit na vyžádání aktuální výpis z trestního rejstříku, 
+    f) předložit na vyžádání aktuální výpis z trestního rejstříku, 
 
-g) účastnit se jednání, je-li k tomu vyzván, zejména pokud se týká jeho osoby
+    g) účastnit se jednání, je-li k tomu vyzván, zejména pokud se týká jeho osoby
 
 ## Článek 4 Příznivci strany 
 
@@ -140,9 +140,9 @@ g) účastnit se jednání, je-li k tomu vyzván, zejména pokud se týká jeho 
 
 3) Vznik funkce 
 
-a) jmenováním 
+    a) jmenováním 
 
-b) volbou, přičemž v případě funkce do krajských orgánů má právo volit krajský sněm a v případě funkce do republikových orgánů má právo volit Republikový sněm 
+    b) volbou, přičemž v případě funkce do krajských orgánů má právo volit krajský sněm a v případě funkce do republikových orgánů má právo volit Republikový sněm 
 
 4) Délka mandátu je zpravidla dva roky, není-li stanoveno jinak, a počíná dnem vyhlášení výsledků voleb, resp. dnem, kdy končí mandát osobě v této funkci, pokud se o funkci neucházela a neuspěla tatáž osoba, která v den vyhlášení výsledků voleb stejnou funkci zastávala. 
 
@@ -154,31 +154,31 @@ b) volbou, přičemž v případě funkce do krajských orgánů má právo voli
 
 8) Zánik funkce získané volbou nastává 
 
-a) uplynutím mandátu, 
+    a) uplynutím mandátu, 
 
-b) v případě úmrtí člena, 
+    b) v případě úmrtí člena, 
 
-c) ukončením členství, 
+    c) ukončením členství, 
 
-d) neúspěchem ve volbách v případě, že člen, který funkci zastává, kandiduje na tutéž funkci před vypršením svého mandátu a není zvolen. V den vyhlášení výsledků voleb mu tento mandát zaniká. 
+    d) neúspěchem ve volbách v případě, že člen, který funkci zastává, kandiduje na tutéž funkci před vypršením svého mandátu a není zvolen. V den vyhlášení výsledků voleb mu tento mandát zaniká. 
 
-e) zvolením do funkce neslučitelné s funkcí, kterou člen aktuálně zastává. Funkce mu zaniká dnem vzniku funkce nové. 
+    e) zvolením do funkce neslučitelné s funkcí, kterou člen aktuálně zastává. Funkce mu zaniká dnem vzniku funkce nové. 
 
-f) odebráním funkce. Podmínky pro odebrání funkce je popsán v Čl. 5, odst. 9 
+    f) odebráním funkce. Podmínky pro odebrání funkce je popsán v Čl. 5, odst. 9 
 
 9) Odebrání funkce vzniklé volbou 
 
-a) návrh na odebrání funkce může podat kterýkoli člen strany; jeho projednání je podmíněno podporou nejméně pěti dalších členů ReV. 
+    a) návrh na odebrání funkce může podat kterýkoli člen strany; jeho projednání je podmíněno podporou nejméně pěti dalších členů ReV. 
 
-b) návrh na odebrání funkce navrhovatel předkládá ReV a ReP. ReV a ReP jsou povinné o tomto návrhu rozhodnout na nejbližším jednání. Na jednání obou republikových orgánů mají právo být přítomni navrhovatel i člen navržený na odebrání funkce. Oba mají právo na vyjádření se. Důkazní břemeno nese navrhovatel. 
+    b) návrh na odebrání funkce navrhovatel předkládá ReV a ReP. ReV a ReP jsou povinné o tomto návrhu rozhodnout na nejbližším jednání. Na jednání obou republikových orgánů mají právo být přítomni navrhovatel i člen navržený na odebrání funkce. Oba mají právo na vyjádření se. Důkazní břemeno nese navrhovatel. 
 
-c) alespoň jeden z orgánů ReV či ReP musí návrh podpořit, aby mohlo být přistoupeno k následnému kroku (Čl. 5, odst. 9, písm. d). Pokud ani jeden z orgánů návrh nepodpoří, je takový návrh automaticky bez možnosti odvolání zamítnut. O jednáních musí být vyhotoven zápis. V případě, že člen navrhovaný na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. V případě, že člen navrhující na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. 
+    c) alespoň jeden z orgánů ReV či ReP musí návrh podpořit, aby mohlo být přistoupeno k následnému kroku (Čl. 5, odst. 9, písm. d). Pokud ani jeden z orgánů návrh nepodpoří, je takový návrh automaticky bez možnosti odvolání zamítnut. O jednáních musí být vyhotoven zápis. V případě, že člen navrhovaný na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. V případě, že člen navrhující na odebrání funkce zastává funkci v ReP či ReV, hlasování o návrhu se neúčastní a hlasovací kvórum je o jeho hlas sníženo. 
 
-d) pokud ReV či ReP podpoří návrh na odebrání funkce, je Volební komise povinna na pokyn ReP do tří dnů vypsat volby, ve kterých o odebrání s konečnou platností a bez možnosti odvolání rozhodne sněm ve stejné úrovni, ve které funkce vznikla, tj. pro odebrání funkce v krajském orgánu rozhodne krajský sněm a pro odebrání funkce v republikovém orgánu rozhodne Republikový sněm. V obou případech probíhá volba formou „pro návrh/proti návrhu“, přičemž součástí textu doprovázejícího vyhlášení textu musejí být důkazy, předložené při návrhu na odebrání funkce, popř. odkaz, na kterém jsou tyto důkazy dostupné 
+    d) pokud ReV či ReP podpoří návrh na odebrání funkce, je Volební komise povinna na pokyn ReP do tří dnů vypsat volby, ve kterých o odebrání s konečnou platností a bez možnosti odvolání rozhodne sněm ve stejné úrovni, ve které funkce vznikla, tj. pro odebrání funkce v krajském orgánu rozhodne krajský sněm a pro odebrání funkce v republikovém orgánu rozhodne Republikový sněm. V obou případech probíhá volba formou „pro návrh/proti návrhu“, přičemž součástí textu doprovázejícího vyhlášení textu musejí být důkazy, předložené při návrhu na odebrání funkce, popř. odkaz, na kterém jsou tyto důkazy dostupné 
 
-e) hrozí-li nebezpečí z prodlení či zneužití funkce, může být v případě takového člena, je-li návrh podpořen jedním z orgánů dle Čl. 5, odst. 9, písm. c), rozhodnuto i o dočasném pozastavení výkonu práv a povinností z funkce vyplývajících. Takové rozhodnutí má právo učinit ReP a musí tak učinit jednomyslně. V případě, že Republikový sněm, resp. krajský sněm rozhodnutí o odebrání funkce zamítne, bude členu, který byl takto krácen na výkonu svých práv vyplývajících z funkce, prodlouženo funkční období o dobu, po kterou mu byl výkon práv pozastaven. 
+    e) hrozí-li nebezpečí z prodlení či zneužití funkce, může být v případě takového člena, je-li návrh podpořen jedním z orgánů dle Čl. 5, odst. 9, písm. c), rozhodnuto i o dočasném pozastavení výkonu práv a povinností z funkce vyplývajících. Takové rozhodnutí má právo učinit ReP a musí tak učinit jednomyslně. V případě, že Republikový sněm, resp. krajský sněm rozhodnutí o odebrání funkce zamítne, bude členu, který byl takto krácen na výkonu svých práv vyplývajících z funkce, prodlouženo funkční období o dobu, po kterou mu byl výkon práv pozastaven. 
 
-f) rozhodnutí o odebrání funkce nabývá účinnosti dnem vyhlášení výsledku volby
+    f) rozhodnutí o odebrání funkce nabývá účinnosti dnem vyhlášení výsledku volby
 
 ## Článek 6 Obecné zásady 
 
@@ -186,19 +186,19 @@ f) rozhodnutí o odebrání funkce nabývá účinnosti dnem vyhlášení výsle
  
 2) Usnášeníschopnost a hlasování 
 
-a) Orgány strany s výjimkou republikového a krajského sněmu a republikového výboru jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících. Republikový výbor je usnášeníschopný za přítomnosti minimálně jedné třetiny členů. Na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. 
+    a) Orgány strany s výjimkou republikového a krajského sněmu a republikového výboru jsou usnášeníschopné za přítomnosti nadpoloviční většiny členů a mohou v takovém případě rozhodovat nadpoloviční většinou hlasujících. Republikový výbor je usnášeníschopný za přítomnosti minimálně jedné třetiny členů. Na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. 
 
-b) Republikový výbor, Republikové předsednictvo, krajské předsednictvo, Rozhodčí komise, Kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat. 
+    b) Republikový výbor, Republikové předsednictvo, krajské předsednictvo, Rozhodčí komise, Kontrolní komise a Volební komise mohou rozhodovat také elektronicky s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat; má se za to, že ten, kdo nehlasoval, s návrhem nesouhlasí. Usnesení je přijato, pokud je podpoří nadpoloviční většina ze všech, kdo jsou oprávněni hlasovat. 
 
-c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z hlasujících, o zásadních otázkách sněm rozhoduje elektronicky s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících. Elektronické hlasování má platnost rozhodnutí sněmu. 
+    c) Republikový a krajský sněm je usnášeníschopný za jakéhokoliv počtu přítomných; na program nelze zařazovat nové body, které nebyly uvedeny na pozvánce. Na republikovém a krajském sněmu se může rozhodovat o procedurálních otázkách nadpoloviční většinou z hlasujících, o zásadních otázkách sněm rozhoduje elektronicky s prodlouženou dobou hlasování; usnesení je přijato, pokud jej podpoří nadpoloviční většina hlasujících. Elektronické hlasování má platnost rozhodnutí sněmu. 
 
-d) Elektronické hlasování, kterého se mohou účastnit všichni členové strany, má platnost rozhodnutí Republikového sněmu, a to i v bodech a-e článku 8, odstavce 5, které má Republikový sněm ve výlučné působnosti. V ostatních bodech odstavce 5 článku 8, které má Republikový sněm ve výlučné působnosti, je možné takové elektronické hlasování provádět jedině v souvislosti s probíhajícím Republikovým sněmem a to v případě, kdy Republikový sněm má tyto body zařazeny na programu. 
+    d) Elektronické hlasování, kterého se mohou účastnit všichni členové strany, má platnost rozhodnutí Republikového sněmu, a to i v bodech a-e článku 8, odstavce 5, které má Republikový sněm ve výlučné působnosti. V ostatních bodech odstavce 5 článku 8, které má Republikový sněm ve výlučné působnosti, je možné takové elektronické hlasování provádět jedině v souvislosti s probíhajícím Republikovým sněmem a to v případě, kdy Republikový sněm má tyto body zařazeny na programu. 
 
 3) Volby 
 
-a) Volby se konají elektronicky (korespondenčně) s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat. Zvoleni jsou ti, kdo získali nejvyšší počet odevzdaných platných hlasů bez ohledu na počet hlasujících. Je-li počet kandidátů menší nebo roven počtu volených, hlasuje se o každém kandidátovi zvlášť „pro návrh“ a „proti návrhu“, v takovém případě je kandidát zvolen, pokud variantu „pro návrh“ podpoří více hlasujících. 
+    a) Volby se konají elektronicky (korespondenčně) s prodlouženou dobou hlasování tak, aby bylo umožněno hlasování všem, kdo mají právo hlasovat. Zvoleni jsou ti, kdo získali nejvyšší počet odevzdaných platných hlasů bez ohledu na počet hlasujících. Je-li počet kandidátů menší nebo roven počtu volených, hlasuje se o každém kandidátovi zvlášť „pro návrh“ a „proti návrhu“, v takovém případě je kandidát zvolen, pokud variantu „pro návrh“ podpoří více hlasujících. 
 
-b) Volba předsedy Rozhodčí, Kontrolní a Volební komise se může konat podle odst. 2 písm. a). 
+    b) Volba předsedy Rozhodčí, Kontrolní a Volební komise se může konat podle odst. 2 písm. a). 
 
 4) O personálních otázkách se zpravidla hlasuje tajně. Vždy se hlasuje tajně, pokud o to požádá kterýkoli člen. 
 
@@ -216,31 +216,31 @@ b) Volba předsedy Rozhodčí, Kontrolní a Volební komise se může konat podl
 
 3) Krajského sněmu se má právo zúčastnit každý člen krajského sdružení. Krajský sněm: 
 
-a) volí a odvolává ze svého středu předsedu a čtyři místopředsedy krajského sdružení v přímé tajné jednokolové volbě za účasti všech členů krajského sdružení, 
+    a) volí a odvolává ze svého středu předsedu a čtyři místopředsedy krajského sdružení v přímé tajné jednokolové volbě za účasti všech členů krajského sdružení, 
 
-b) je odpovědný za politiku strany na krajské úrovni, 
+    b) je odpovědný za politiku strany na krajské úrovni, 
 
-c) ukládá úkoly krajskému předsednictvu. Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období. 
+    c) ukládá úkoly krajskému předsednictvu. Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období. 
 
 4) Krajské předsednictvo: 
 
-a) se skládá z předsedy a čtyř místopředsedů, 
+    a) se skládá z předsedy a čtyř místopředsedů, 
 
-b) je odpovědné krajskému sněmu, 
+    b) je odpovědné krajskému sněmu, 
 
-c) plní usnesení krajského sněmu, 
+    c) plní usnesení krajského sněmu, 
 
-d) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva, 
+    d) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva, 
 
-e) svolává minimálně jedenkrát ročně krajský sněm, 
+    e) svolává minimálně jedenkrát ročně krajský sněm, 
 
-f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak, 
+    f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak, 
 
-g) může zřizovat poradní komise, 
+    g) může zřizovat poradní komise, 
 
-h) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
+    h) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu,
 
-i) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
+    i) zabezpečuje organizačně otevřené primární volby ve svém kraji, může pro tento účel zřídit volební komisi.
 
 ## Článek 8 Republikový sněm 
 
@@ -254,33 +254,33 @@ i) zabezpečuje organizačně otevřené primární volby ve svém kraji, může
 
 5) Republikový sněm ve výlučné působnosti: 
 
-a) volí a odvolává předsedu a čtyři místopředsedy strany v přímé tajné jednokolové volbě za účasti všech členů strany, 
+    a) volí a odvolává předsedu a čtyři místopředsedy strany v přímé tajné jednokolové volbě za účasti všech členů strany, 
 
-b) volí a odvolává pět členů Kontrolní komise, 
+    b) volí a odvolává pět členů Kontrolní komise, 
 
-c) volí a odvolává pět členů Rozhodčí komise, 
+    c) volí a odvolává pět členů Rozhodčí komise, 
 
-d) volí a odvolává pět členů Volební komise, 
+    d) volí a odvolává pět členů Volební komise, 
 
-e) volí a odvolává dvacet členů Republikového výboru, 
+    e) volí a odvolává dvacet členů Republikového výboru, 
 
-f) schvaluje změny stanov poté, co byly projednány alespoň v jednom ze trojice následujících orgánů strany: Rozhodčí komise, Republikové předsednictvo, Republikový výbor, 
+    f) schvaluje změny stanov poté, co byly projednány alespoň v jednom ze trojice následujících orgánů strany: Rozhodčí komise, Republikové předsednictvo, Republikový výbor, 
 
-g) projednává a schvaluje výroční zprávu předsedy strany, 
+    g) projednává a schvaluje výroční zprávu předsedy strany, 
 
-h) projednává a schvaluje výroční zprávu o hospodaření strany, 
+    h) projednává a schvaluje výroční zprávu o hospodaření strany, 
 
-i) projednává a schvaluje výroční zprávu Kontrolní komise, 
+    i) projednává a schvaluje výroční zprávu Kontrolní komise, 
 
-j) bere na vědomí výroční zprávu Rozhodčí komise. 
+    j) bere na vědomí výroční zprávu Rozhodčí komise. 
 
 6) Republikový sněm dále: 
 
-a) schvaluje další předpisy k úpravě vnitrostranických poměrů, 
+    a) schvaluje další předpisy k úpravě vnitrostranických poměrů, 
 
-b) ukládá úkoly Republikovému předsednictvu a výboru, 
+    b) ukládá úkoly Republikovému předsednictvu a výboru, 
 
-c) může projednávat a schvalovat základní programové a ideové dokumenty. 
+    c) může projednávat a schvalovat základní programové a ideové dokumenty. 
 
 ## Článek 9 Republikový výbor 
 
@@ -296,55 +296,55 @@ c) může projednávat a schvalovat základní programové a ideové dokumenty.
 
 6) Republikový výbor zejména: 
 
-a) stanoví výši členských příspěvků a příspěvků příznivců a lhůty pro zaplacení, 
+    a) stanoví výši členských příspěvků a příspěvků příznivců a lhůty pro zaplacení, 
 
-b) schvaluje statut Kontrolní komise a statut Rozhodčí komise, 
+    b) schvaluje statut Kontrolní komise a statut Rozhodčí komise, 
 
-c) schvaluje rozpočtová pravidla, pravidla hospodaření, rozpočet strany, výsledky hospodaření, 
+    c) schvaluje rozpočtová pravidla, pravidla hospodaření, rozpočet strany, výsledky hospodaření, 
 
-d) projednává a připravuje zprávy a návrhy pro republikový sněm, 
+    d) projednává a připravuje zprávy a návrhy pro republikový sněm, 
 
-e) schvaluje organizační řád republikové kanceláře, 
+    e) schvaluje organizační řád republikové kanceláře, 
 
-f) může schválit vzorové jednací a volební řády, 
+    f) může schválit vzorové jednací a volební řády, 
 
-g) projednává odvolání proti rozhodnutí Rozhodčí komise o vyloučení člena a řeší případy, kdy rozhodnutím Rozhodčí komise nebyla dosažena náprava, 
+    g) projednává odvolání proti rozhodnutí Rozhodčí komise o vyloučení člena a řeší případy, kdy rozhodnutím Rozhodčí komise nebyla dosažena náprava, 
 
-h) ukládá úkoly předsednictvu, 
+    h) ukládá úkoly předsednictvu, 
 
-i) projednává a schvaluje základní programové a ideové dokumenty, 
+    i) projednává a schvaluje základní programové a ideové dokumenty, 
 
-j) projednává vyžádané průběžné zprávy předsednictva, 
+    j) projednává vyžádané průběžné zprávy předsednictva, 
 
-k) zřizuje a ruší komise pro poradní, odbornou a expertní činnost, 
+    k) zřizuje a ruší komise pro poradní, odbornou a expertní činnost, 
 
-l) odpovídá za kandidátní listiny pro volby do veřejných funkcí, v mimořádných a odůvodněných případech může kandidátní listinu změnit, 
+    l) odpovídá za kandidátní listiny pro volby do veřejných funkcí, v mimořádných a odůvodněných případech může kandidátní listinu změnit, 
 
-m) rozhoduje o všech záležitostech, které nejsou vyhrazeny jiným orgánům. 
+    m) rozhoduje o všech záležitostech, které nejsou vyhrazeny jiným orgánům. 
 
 ## Článek 10 Republikové předsednictvo 
 
 1) Republikové předsednictvo sestává z předsedy a čtyř místopředsedů.
 
-a) Místopředsedové Republikového předsednictva mohou rezignovat na svůj mandát v Republikovém předsednictvu a přitom si ponechat návazný mandát v Republikovém výboru. Volby na takto uvolněnou pozici místopředsedy Republikového předsednictva se vypisují až po vypršení takového mandátu v Republikovém výboru. 
+    a) Místopředsedové Republikového předsednictva mohou rezignovat na svůj mandát v Republikovém předsednictvu a přitom si ponechat návazný mandát v Republikovém výboru. Volby na takto uvolněnou pozici místopředsedy Republikového předsednictva se vypisují až po vypršení takového mandátu v Republikovém výboru. 
 
 2) Republikové předsednictvo: 
 
-a) je statutárním a výkonným orgánem strany, 
+    a) je statutárním a výkonným orgánem strany, 
 
-b) jménem Republikového předsednictva jedná navenek předseda strany, v případě jeho nepřítomnosti další pověřený člen předsednictva. Písemné úkony podepisuje předseda strany, nebo jiný pověřený člen předsednictva. 
+    b) jménem Republikového předsednictva jedná navenek předseda strany, v případě jeho nepřítomnosti další pověřený člen předsednictva. Písemné úkony podepisuje předseda strany, nebo jiný pověřený člen předsednictva. 
 
-c) má všeobecnou odpovědnost za stranu a za politické záležitosti mezi zasedáními Republikového výboru, 
+    c) má všeobecnou odpovědnost za stranu a za politické záležitosti mezi zasedáními Republikového výboru, 
 
-d) plní usnesení Republikového výboru a Republikového sněmu, 
+    d) plní usnesení Republikového výboru a Republikového sněmu, 
 
-e) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva, 
+    e) schází se podle potřeby, sejde se vždy, požádá-li o to kterýkoli člen předsednictva, 
 
-f) předkládá Republikovému výboru vlastní návrhy týkající se činnosti strany, 
+    f) předkládá Republikovému výboru vlastní návrhy týkající se činnosti strany, 
 
-g) může vyhlásit nové volby krajského předsednictva, 
+    g) může vyhlásit nové volby krajského předsednictva, 
 
-h) rozhoduje o odvolání proti rozhodnutí krajského předsednictva, kterým nebylo schváleno přijetí žadatele o členství. 
+    h) rozhoduje o odvolání proti rozhodnutí krajského předsednictva, kterým nebylo schváleno přijetí žadatele o členství. 
 
 3) Členové Republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek strany s hlasem poradním. 
 
@@ -380,15 +380,15 @@ Místopředsedové zastupují předsedu strany ve stanoveném pořadí. Vykonáv
 
 4) Rozhodčí komise: 
 
-a) vydává usnesení k závaznému výkladu stanov, 
+    a) vydává usnesení k závaznému výkladu stanov, 
 
-b) průběžně shromažďuje návrhy na změny stanov, projednává je a vydává k nim stanoviska, 
+    b) průběžně shromažďuje návrhy na změny stanov, projednává je a vydává k nim stanoviska, 
 
-c) při projednávání sporných záležitostí vždy vyslechne dotčené osoby a organizační jednotky, 
+    c) při projednávání sporných záležitostí vždy vyslechne dotčené osoby a organizační jednotky, 
 
-d) může pozastavit platnost rozhodnutí organizační jednotky, které je v rozporu s obecně závaznými právními předpisy nebo stanovami; vyzve dotčenou jednotku k nápravě, není-li nápravy dosaženo, rozhoduje s konečnou platností Republikový výbor,
+    d) může pozastavit platnost rozhodnutí organizační jednotky, které je v rozporu s obecně závaznými právními předpisy nebo stanovami; vyzve dotčenou jednotku k nápravě, není-li nápravy dosaženo, rozhoduje s konečnou platností Republikový výbor,
 
-e) rozhoduje o návrhu na vyloučení člena, který může podat kterýkoli člen strany; proti rozhodnutí je možné se odvolat k Republikovému výboru. 
+    e) rozhoduje o návrhu na vyloučení člena, který může podat kterýkoli člen strany; proti rozhodnutí je možné se odvolat k Republikovému výboru. 
 
 ## Článek 15 Volební komise 
 
