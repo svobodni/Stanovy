@@ -222,7 +222,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
     c) ukládá úkoly krajskému předsednictvu.
 
-   Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období. 
+Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období. 
 
 5) Krajské předsednictvo: 
 
