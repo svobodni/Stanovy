@@ -3,7 +3,7 @@
   $("h2").each(function( index ) {
     var content = $(this).text();
 
-    content = content.replace(/(Článek \d+) (.*), function(v, number, title){
+    content = content.replace(/(Článek \d+) (.*)/g, function(v, number, title){
       return(number+'<br/>'+title);
     });
     $(this).html(content);
