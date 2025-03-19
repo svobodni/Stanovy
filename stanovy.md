@@ -1,5 +1,5 @@
 ---
-schvaleno: 2025-01-01
+schvaleno: 2025-01-30
 ---
 
 ## Článek 1 Úvodní ustanovení 
