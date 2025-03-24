@@ -1,13 +1,17 @@
 <script type="text/javascript">
 
 $("h2").each(function() {
-  var content = $(this).text().trim(); // Odstraní mezery na začátku a konci
+  var content = $(this).text().trim(); // Odstranění mezer na začátku a konci
 
-  // Používáme lazy match (.*?) místo greedy (.*), aby regulární výraz správně zachytil část s tečkou
-  content = content.replace(/^(Článek \d+)\s+(.*)$/s, function(match, number, title) {
-    return number + '<br/>' + title.trim().replace(/\s+/g, ' '); // Nahrazuje vícenásobné mezery jednou
-  });
+  // Vzor: "Článek X" + zbytek nadpisu (včetně teček, čárek a dalších znaků)
+  var match = content.match(/^(Článek \d+)\s+(.+)$/);
 
-  $(this).html(content);
+  if (match) {
+    var number = match[1]; // "Článek X"
+    var title = match[2];  // Nadpis (může obsahovat tečky atd.)
+
+    // Nahrazení HTML v elementu
+    $(this).html(number + '<br/>' + title);
+  }
   })
 </script>
