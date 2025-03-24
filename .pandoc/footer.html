@@ -1,11 +1,12 @@
 <script type="text/javascript">
 
-  $("h2").each(function( index ) {
-    var content = $(this).text();
+$("h2").each(function() {
+  var content = $(this).text().trim(); // Odstraní mezery na začátku a konci
 
-    content = content.replace(/(Článek \d+) (.*)/g, function(v, number, title){
-      return(number+'<br/>'+title);
-    });
-    $(this).html(content);
+  content = content.replace(/(Článek \d+)\s+(.*)/, function(match, number, title) {
+    return number + '<br/>' + title.replace(/\s+/g, ' '); // Odstraní vícenásobné mezery
+  });
+
+  $(this).html(content);
   })
 </script>
