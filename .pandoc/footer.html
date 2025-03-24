@@ -3,7 +3,7 @@
 $("h2").each(function() {
   var content = $(this).text().trim(); // Odstraní mezery na začátku a konci
 
-  content = content.replace(/(Článek \d+)\s+(.*)/, function(match, number, title) {
+  content = content.replace(/(Článek \d+)\s+(.+)/, function(match, number, title) {
     return number + '<br/>' + title.replace(/\s+/g, ' '); // Odstraní vícenásobné mezery
   });
 
