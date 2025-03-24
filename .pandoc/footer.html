@@ -2,7 +2,7 @@
 
 $("h2").each(function() {
   var content = $(this).text().trim(); // Odstranění mezer na začátku a konci
-
+  content = content.replace(/\n/g, " ");
   // Vzor: "Článek X" + zbytek nadpisu (včetně teček, čárek a dalších znaků)
   var match = content.match(/^(Článek \d+)(.*)$/);
   
