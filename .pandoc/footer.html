@@ -4,11 +4,11 @@ $("h2").each(function() {
   var content = $(this).text().trim(); // Odstranění mezer na začátku a konci
 
   // Vzor: "Článek X" + zbytek nadpisu (včetně teček, čárek a dalších znaků)
-  var match = content.match(/^(Článek \d+)\s+(.*)$/);
+  var match = content.match(/^(Článek \d+)(.*)$/);
   
   if (match) {
     var number = match[1]; // "Článek X"
-    var title = match[2];  // Nadpis (může obsahovat tečky atd.)
+    var title = match[2].trim();  // Nadpis (může obsahovat tečky atd.)
 
     // Nahrazení HTML v elementu
     $(this).html(number + '<br/>' + title);
